@@ -88,3 +88,8 @@ const human = {
 ```
 
 #### Call stack is managing tasks and doing jobs with top in last out method
+
+---
+
+## Stack Overflow
+#### When call stack become to much large .. : D
