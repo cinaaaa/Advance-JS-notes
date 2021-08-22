@@ -27,3 +27,52 @@ Typescript is a superset of Javascript that compiles down to Javascript.
 
 Both of these do exactly what compilers do: Take one language and convert into a different one!
 ```
+
+---
+
+## JIT compiler
+#### Combine both interpreted and compiler to translate the codes
+
+---
+
+## Is javascript an interpreted language?
+#### initially yes, but now we have some compilers for it !
+
+---
+
+## Problematic things in JS
+
+- eval()
+- arguments
+- for in
+- with
+- delete
+- hidden classes
+- inline caching
+ 
+[Wiki link](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers)
+
+---
+
+## inline caching
+#### Define data as variable so compiler will cache it
+
+```js
+function findUser(user) {
+    return `User name is ${user.name}`
+}
+
+const userData = {
+    name: 'Sina'
+}
+
+// after some while the userData will
+// cache in compiler and prevent code calculation
+findUser(userData)
+
+```
+
+---
+
+## 
+#### 
