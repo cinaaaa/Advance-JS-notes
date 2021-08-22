@@ -74,5 +74,17 @@ findUser(userData)
 
 ---
 
-## 
-#### 
+## Call stack & memory Heap
+#### Memory Heap
+
+```js
+const number = 100; // allocate memory for number
+const string = "Sina"; // allocate memory for a string
+const human = {
+    first: 'Sina',
+    last: 'Farhadi'
+}; // allocate memory for object .... and it's values
+
+```
+
+#### Call stack is managing tasks and doing jobs with top in last out method
