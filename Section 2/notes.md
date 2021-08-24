@@ -108,3 +108,27 @@ const human = {
 
 ## How JavaScript do it?
 #### With mark & sweep way
+
+---
+
+## Common memory leaks in JS
+
+- Global variables
+- Event listeners
+- Set Intervals
+
+---
+
+## Javascript is Single Threaded language!
+#### It not doing multiple things at same time :blush
+
+---
+
+## WebAPI
+#### accessible in JS by "window" and allow to do asynchronous tasks in JS
+#### Actually apis provided by browsers
+
+---
+
+## Window api pass the tasks to event loop
+#### when calling web apis, the call stack push task to event loop and get the response when it's ready
