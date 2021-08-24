@@ -132,3 +132,10 @@ const human = {
 
 ## Window api pass the tasks to event loop
 #### when calling web apis, the call stack push task to event loop and get the response when it's ready
+
+---
+
+## NodeJS is a JavaScript Runtime !!!
+#### Runtime mean having all tools and needs outside browser to run jsS
+
+---
