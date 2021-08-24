@@ -92,4 +92,19 @@ const human = {
 ---
 
 ## Stack Overflow
-#### When call stack become to much large .. : D
+#### When call stack become to much large : D
+
+---
+
+## Is JavaScript garbage collected language?
+#### Yes, it is
+
+---
+
+## What it mean " Garbage Collected " ?
+#### Clean unused allocated memory automatically
+
+---
+
+## How JavaScript do it?
+#### With mark & sweep way
