@@ -18,3 +18,12 @@ our available variables. Not where the function is called (dynamic scope)
 #### the process whereby the compiler allocates memory for variable and function declarations prior to execution of the code
 
 Var & functions are hoisted first
+
+---
+
+## Function Invocation (arguments)
+#### Function execution context give us `arguments` api
+
+---
+
+## 
