@@ -12,4 +12,9 @@
 In javascript our lexical scope ( available data + variables where the function was defined ) determines 
 our available variables. Not where the function is called (dynamic scope)
 
---- 
+---
+
+## Hoisting
+#### the process whereby the compiler allocates memory for variable and function declarations prior to execution of the code
+
+Var & functions are hoisted first
