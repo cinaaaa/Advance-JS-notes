@@ -33,3 +33,22 @@ Var & functions are hoisted first
 
 ## Scope chain
 #### allow access of parent variables into local scopes/variable env
+
+---
+
+## Scope?
+#### define accessibility of variables/code
+
+---
+
+### Function scope vs Block scope
+##### Block is scoped in {} but function scope can access outside scopes
+
+---
+
+### IIFE
+#### Immediately invoking anonymous function and allow us to prevent global declaration
+
+---
+
+### 
