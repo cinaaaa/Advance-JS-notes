@@ -26,4 +26,10 @@ Var & functions are hoisted first
 
 ---
 
-## 
+## Variable environment
+#### Local variables in their execution context
+
+---
+
+## Scope chain
+#### allow access of parent variables into local scopes/variable env
